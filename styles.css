@@ -1,0 +1,43 @@
+body {
+    background-color: #1c1d25;
+    font-family: 'Poppins', sans-serif;
+    color: azure;
+}
+
+.title {
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+.mid-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.player-name {
+    border: 2px beige;
+    border-style: dashed; 
+}
+
+.bottom-section {
+    margin: auto;
+    text-align: center;
+} 
+
+.button {
+    width: auto;
+    height: auto;
+    background-color: beige;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: black;
+
+}
