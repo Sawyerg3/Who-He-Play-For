@@ -1,2 +1,3 @@
 # Who-He-Play-For
-Inspired by Inside the NBA
+This project was inspired by Inside the NBA's "Who He Play For Segment".
+
