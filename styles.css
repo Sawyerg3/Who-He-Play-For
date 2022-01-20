@@ -19,7 +19,7 @@ h1 {
 }
 
 h3 {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .mid-section {
@@ -31,6 +31,7 @@ h3 {
 .player-name {
     border: 2px beige;
     border-style: dashed; 
+    padding: 10px;
 }
 
 .player-info-container{
@@ -44,10 +45,16 @@ h3 {
     padding-top: 30px;
     display: flex;
     justify-content: space-evenly;
-
 } 
 
 .button {
-    background-color: beige;
+    background-color: rgb(197, 130, 7);
     color: black;
+    padding-left: 10px;
+    padding-right: 10px;border-radius: 30px;
+    color: white;
+}
+
+.button:hover{
+    background-color: rgb(134, 89, 6);
 }
