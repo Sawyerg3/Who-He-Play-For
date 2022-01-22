@@ -1,0 +1,22 @@
+{
+  "name": "who-he-play-for",
+  "version": "1.0.0",
+  "description": "This project was inspired by Inside the NBA's \"Who He Play For Segment\".",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sawyerg3/Who-He-Play-For.git"
+  },
+  "author": "Sawyer Gitzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sawyerg3/Who-He-Play-For/issues"
+  },
+  "homepage": "https://github.com/Sawyerg3/Who-He-Play-For#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
